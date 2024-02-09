@@ -8,6 +8,6 @@
 ![css](https://github.com/JuCanavans/carta_de_aniversario/assets/103950621/b265c9fd-bbde-4f4d-a09d-574e184aca00)
 
 ## 🌐 Website
-Visit the [Layout Prato Salada](https://social-links-ebon.vercel.app/) to explore the live site.
+Visit the [Layout Prato Salada](https://layout-prato.vercel.app/) to explore the live site.
 
 ### <p align="center">Desenvoldedor Julio Cesar.</p>
